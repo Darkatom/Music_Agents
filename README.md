@@ -8,7 +8,7 @@ Each agent has an Instrument, a Note, a Volume and a Pitch Range, which can be c
 
 ![Music Agents Screenshot](image_1.png)
 
-Available instruments are: Chime, Small Chimes, Electric Strings (Double Bass), Nylon Strings, Piano, Violin and Short Violin.
+Available instruments are: Chime, Small Chimes, Double Bass, Nylon Strings, Piano, Violin and Short Violin.
 
 
 Controls
