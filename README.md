@@ -6,7 +6,7 @@ In Music Agents, you can set up a number of Instruments, the Agents (which I lik
 
 Each agent has an Instrument, a Note, a Volume and a Pitch Range, which can be completely changed by the users to make their own compositions.
 
-![Music Agents Screenshot](image_1.png)
+![Music Agents Screenshot](small_orchestra.png)
 
 Available instruments are: Chime, Small Chimes, Double Bass, Nylon Strings, Piano, Violin and Short Violin.
 
